@@ -2,7 +2,7 @@
 
 I am an Entry-Level Data Analyst with a background in Biochemistry. I now analyze data, build insightful Projects in Excel, Power Bi and SQL.
 
-## Tools I work with
+## <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/efbc9b5b-e97f-416f-a5e8-89b7773f7f5b" /> Tools I work with
 -Microsoft Office(Excel,Word and Powerpoint)
 
 -Power Bi
@@ -11,7 +11,7 @@ I am an Entry-Level Data Analyst with a background in Biochemistry. I now analyz
 
 -Google Workspace
 
-## My Projects 
+## <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/4ed17915-d105-4860-90bf-8dac0efc7777" /> My Projects 
 [Retail
 Sales Performance Dashboard](https://github.com/anjolaoduwole-alt/Retail-Sales-Performance-Analysis)
 
